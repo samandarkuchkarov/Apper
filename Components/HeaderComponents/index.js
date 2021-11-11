@@ -13,7 +13,7 @@ export  function Demo1(){
             <Image style={styles.logoDemo1} source={require('../../assets/pepsi.png')}/>  
         </View>
         <View style={styles.rightDemo1}>
-
+                
         </View>
         </>
     )
